@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-currency/static/css/main.5f8a9276.css",
+    "main.js": "/digital-currency/static/js/main.7a1620ec.js",
+    "index.html": "/digital-currency/index.html",
+    "main.5f8a9276.css.map": "/digital-currency/static/css/main.5f8a9276.css.map",
+    "main.7a1620ec.js.map": "/digital-currency/static/js/main.7a1620ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8a9276.css",
+    "static/js/main.7a1620ec.js"
+  ]
+}
